@@ -1,8 +1,7 @@
  # Airline On-Time Performance — Big Data Pipeline
 
 **Course:** GIK2Q3 Applied Big Data and Cloud Computing  
-**Student:** Ashok Enukonda  
-**Grade Target:** VG (Distinction)
+**Student:** GROUPA2(Ashok Enukonda, Pavani Mandava, Medha Phatak, Supraja Mandava, Harshil Patel)
 
 ---
 
