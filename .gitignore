@@ -1,0 +1,19 @@
+# data folders
+/data/processed
+/data/raw
+
+# AWS credentials - NEVER commit!
+*.pem
+airline-key.pem
+
+# temp files
+~$*
+*.tmp
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# output files
+*.docx
+*.pdf
