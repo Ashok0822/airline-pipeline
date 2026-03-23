@@ -193,9 +193,3 @@ See `data/README.md` for download instructions.
 
 ---
 
-##  AI Disclosure
-
-Claude (Anthropic) was used as an AI assistant for debugging
-Spark/Hadoop configuration issues, generating boilerplate code,
-and explaining error messages. All code was reviewed and tested
-by the student before inclusion.
