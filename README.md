@@ -1,7 +1,7 @@
-# ✈️ Airline On-Time Performance — Big Data Pipeline
+#  Airline On-Time Performance — Big Data Pipeline
 
 **Course:** GIK2Q3 Applied Big Data and Cloud Computing  
-**Student:** Medha Pathak, Pavani Nasika, Supraja Mandava, Ashok Enukonda, Harshil Patel
+**Student:** Medha Phatak, Pavani Nasika, Supraja Mandava, Ashok Enukonda, Harshil Patel
 **Repository:** https://github.com/Ashok0822/airline-pipeline
 
 ---
